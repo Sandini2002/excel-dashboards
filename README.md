@@ -1,52 +1,24 @@
-# 📊 McDonald’s Sales Dashboard – South America 2022 (Excel)
+# Excel Dashboards Portfolio
 
-This project presents an interactive **Sales Dashboard** built using Microsoft Excel, focused on **McDonald's operations in South America** for the year 2022. It offers deep insights into regional sales performance, top-selling products, and key representatives, visualized through an organized and user-friendly dashboard layout.
+Welcome to my Excel Dashboards repository! 📊
 
----
+This is where I upload all my Excel dashboard projects and files related to data analytics. Each folder contains:
 
-## 🔍 Project Insights
+- 📁 Excel workbooks
+- 📷 Dashboard screenshots
+- 📄 Project insights and notes
 
-Based on the analysis of 2022 sales data, here are key business insights:
+I use Excel to analyze datasets, create visual dashboards, and gain business insights from real-world data. These projects are part of my learning journey as a Business Analyst student passionate about data-driven decision making.
 
-- **Brazil** and **Argentina** generated the highest sales revenue among all South American regions.
-- The top-selling item was the **McChicken**, showing consistent performance across months.
-- **Sales Representatives “Rodriguez” and “Santos”** contributed significantly to revenue, especially in Q2 and Q3.
-- There was a **notable sales dip in March**, likely due to seasonal or regional factors.
-- The **average order value** remained stable, with a slight increase toward the year-end.
-- **July and November** marked peak sales months, hinting at promotions or campaigns.
+Stay tuned for more updates!
 
----
+ 
 
-## 🛠️ Tools Used
+🧠 *Built with Excel + Curiosity*  
+📌 Connect with me on [LinkedIn](www.linkedin.com/in/sandini-fernando-a64778246)
 
-- **Microsoft Excel**
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers (Region, Item, Sales Rep)
-  - Conditional Formatting
-  - Basic Excel Formulas for KPIs
-
----
-
-## 💡 Dashboard Features
-
-- 📈 **Monthly Sales Trend** (Line Chart)
-- 🌍 **Sales by Region** (Bar Chart)
-- 🥇 **Top-Selling Items** (Pie Chart)
-- 👤 **Top 5 Sales Reps** (Column Chart)
-- 🎯 **KPI Cards**:
-  - Total Revenue
-  - Total Units Sold
-  - Average Order Value
-
----
-
-## 📁 Files Included
-
-- `sales dashboard south america 2022.xlsx`: Main Excel file with dashboard and data
-- `screenshot.png`: (Add a screenshot of your dashboard for preview)
-- `README.md`: Project documentation
-
+ 
+ 
 ---
 
 ## 👩‍💻 What I Learned
